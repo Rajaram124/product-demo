@@ -14,7 +14,7 @@ export default function Home() {
         />
         
         {/* Replaced the previous two lines with 'hello world' */}
-        <h1 className="text-2xl font-bold text-center">hello world</h1>
+        <h1 className="text-2xl font-bold text-center">hello world vamsi</h1>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
           <a
